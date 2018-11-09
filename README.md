@@ -57,3 +57,6 @@ Before we upload the preprocessed data to the Server of XAI Center, we can acces
 
 ### **Web Site**
 > <http://openXai.org>
+
+### LICENSE
+> This data is made available under the Creative [Commons CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/legalcode).
